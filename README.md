@@ -10,7 +10,7 @@
 - ElectronJS </br>
 - Asp.Net Core </br>
 
-## Softamaking
+## Softmaking
  > "A melhor forma de aprender, é ensinando!"
 </br>
 Essa frase, me motivou a criar o Meu Canal <a href="https://www.youtube.com/channel/UCnx7GM0biEoIggmOJbYozsA">SOFTMAKING</a>, um canal em que partilho todos os meus conhecimentos, para outros que estão começando nessa área, o foco é mais direcionado em C#, sendo uma Linguagem muito abordada cá em Angola.
