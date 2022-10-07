@@ -1,14 +1,13 @@
 # Juciano de Jesus Augusto da Silva
-<p> Chamo-me Juciano, estou com 17 anos de idade, e atualmente frequento o ensino médio, 12ª Classe no Curso de Informática. Gosto de TI, principalmente quando o foco é Criação de Softwares, em meus tempos livre passo a criar Apps, para fins de estudo. Atualmente domino C#/Windows Form, mas estou no caminho de aprender C#/Asp-Net focado na Criação de Aplicações Web! Levo muito a sério Softwares Development, e tento sempre focar no fim e na qualidade dos mesmos. </p>
+<p> Chamo-me Juciano, atualmente frequento o ensino médio, 13ª Classe no Curso de Informática. Gosto de TI, principalmente quando o foco é Criação de Softwares, em meus tempos livre passo a criar Apps, para fins de estudo. Atualmente domino C#/Windows Form, HTML+CSS, mas estou no caminho de aprender C#/Asp-Net focado na Criação de Aplicações Web e também PHP. Levo muito a sério Softwares Development, e tento sempre focar no fim e na qualidade dos mesmos. </p>
 
 ## Linguagens estudadas
-- C# (WindowsForm)
+- C# 
+- PHP
 
-## Linguagens a Serem estudadas
-- Flutter </br>
-- HTML+CSS </br>
-- ElectronJS </br>
-- Asp.Net Core </br>
+## Tecnologias a Serem estudadas
+- Xamarin </br>
+- PHP (Avançado) </br>
 
 ## Softmaking
  > "A melhor forma de aprender, é ensinando!"
