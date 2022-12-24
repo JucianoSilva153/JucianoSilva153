@@ -1,5 +1,5 @@
 # Juciano de Jesus Augusto da Silva
-<p> Chamo-me Juciano, atualmente frequento o ensino médio, 13ª Classe no Curso de Informática. Gosto de TI, principalmente quando o foco é Criação de Softwares, em meus tempos livre passo a criar Apps, para fins de estudo. Atualmente domino C#/Windows Form, HTML+CSS, mas estou no caminho de aprender C#/Asp-Net focado na Criação de Aplicações Web e também PHP. Levo muito a sério Softwares Development, e tento sempre focar no fim e na qualidade dos mesmos. </p>
+<p> Chamo-me Juciano, atualmente sou finalista do ensino médio no Curso de Informática. Gosto de TI, principalmente quando o foco é Criação de Softwares, em meus tempos livre passo a criar Apps, para fins de estudo. Atualmente, estou focado em meus estudo em <b>.NET MAUI</b> específicamente para Desenvolvimento Desktop e Android. Levo muito a sério Softwares Development, e tento sempre focar no fim e na qualidade dos mesmos. Sou alguém que está disposto a crescer sempre em Soft e Hard Skills</p>
 
 ## Stacks
 - .NET => MAUI | ASP.NET Core | WinForms 
