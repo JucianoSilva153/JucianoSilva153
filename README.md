@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a passionate FullStack .NET Software Developer.
-<p>I'm an average computer technician. I like IT, especially when the focus is Software Creation, in my spare time I start creating Apps, for study purposes. Currently, I'm focused on my study in <b>.NET Core</b> specifically to be able to be a FullStack Developer. I take Software Development very seriously, and I always try to focus on the end and quality of the same. I am someone who is always willing to grow in Soft and Hard Skills. I have some experience in BackEnd Development with C#/.NET Core and FrontEnd with TailwindCSS</p>
+I am a passionate .NET Software Developer.
+<p>I'm an average computer technician. I love technology, especially when the focus is Software Creation, in my spare time I create Apps, for study purposes. I have experience with .NET development with ASP.NET for backend and Blazor for Frontend. I take Software Development very seriously, and I always try to focus on the end and quality of the same. I am someone who is always willing to grow in Soft and Hard Skills. I have some experience in BackEnd Development with C#/.NET Core and FrontEnd with TailwindCSS</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jucianosilvasilva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedIn.com/in/juciano-silva/) 
